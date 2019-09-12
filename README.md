@@ -9,4 +9,10 @@
 *******************
 ## Etape 1
 
-- Ajouter <link rel="stylesheet" href="spirit_tv.css"> dans votre head de votre fichier HTML
+- Ajoute:
+
+```css
+<link rel="stylesheet" href="spirit_tv.css">
+``` 
+
+dans votre head de votre fichier HTML
