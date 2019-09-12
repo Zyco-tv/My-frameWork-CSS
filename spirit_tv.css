@@ -71,4 +71,29 @@
     order: 10;
 }
 
-/* Margin */
+/* TEXT COLOR */
+
+.p-vert{
+    color: green
+}
+.p-rouge{
+    color: red
+}
+.p-bleu{
+    color: blue
+}
+.p-jaune{
+    color: yellow
+}
+.p-orange{
+    color: orange
+}
+.p-violet{
+    color: violet
+}
+.p-noire{
+    color: black
+}
+.p-blanc{
+    color: white
+}
