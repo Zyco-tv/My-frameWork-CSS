@@ -1,0 +1,44 @@
+/* ALL FLEX */
+
+.flex{
+    display: flex;
+}
+
+.column{
+    flex-direction: column
+}
+.row{
+    flex-direction: row;
+}
+.column-r{
+    flex-direction: column-reverse;
+}
+.row-r{
+    flex-direction: row-reverse;
+}
+.wrap{
+    flex-wrap: wrap
+}
+.content-center{
+    justify-content: center;
+}
+.item-center{
+    align-items: center
+}
+.aligne-content{
+    align-content: center;
+}
+.grow-xs{
+    flex-grow: 1;
+}
+.grow-md{
+    flex-grow: 2;
+}
+.grow-ls{
+    flex-grow: 3;
+}
+.grow-xl{
+    flex-grow: 4;
+}
+
+/* Margin */
