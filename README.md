@@ -8,5 +8,5 @@
 > Si vous le modifier cela casse tout le framework 
 ## Etape 1
 
-- Ajouter "<link rel="stylesheet" href="spirit_tv.css">" dans votre head de votre fichier HTML
+- Ajouter <link rel="stylesheet" href="spirit_tv.css"> dans votre head de votre fichier HTML
 
