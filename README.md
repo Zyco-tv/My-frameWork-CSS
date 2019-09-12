@@ -10,3 +10,8 @@
 
 - Ajouter <link rel="stylesheet" href="spirit_tv.css"> dans votre head de votre fichier HTML
 
+
+*** Export HTML ***
+*******************
+
+<a href="http://www.google.com" title="link to google">google</a>
