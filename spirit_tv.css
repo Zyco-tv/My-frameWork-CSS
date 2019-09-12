@@ -40,5 +40,35 @@
 .grow-xl{
     flex-grow: 4;
 }
+.order1{
+    order: 1;
+}
+.order2{
+    order: 2;
+}
+.order3{
+    order: 3;
+}
+.order4{
+    order: 4;
+}
+.order5{
+    order: 5;
+}
+.order6{
+    order: 6;
+}
+.order7{
+    order: 7;
+}
+.order8{
+    order: 8;
+}
+.order9{
+    order: 9;
+}
+.order10{
+    order: 10;
+}
 
 /* Margin */
