@@ -4,7 +4,7 @@
     display: flex;
 }
 
-.column{
+.col{
     flex-direction: column
 }
 .row{
@@ -31,10 +31,10 @@
 .grow-xs{
     flex-grow: 1;
 }
-.grow-md{
+.grow-m{
     flex-grow: 2;
 }
-.grow-ls{
+.grow-l{
     flex-grow: 3;
 }
 .grow-xl{
@@ -111,4 +111,19 @@
 }
 .dis-none{
     display: none;
+}
+
+/* TEXT TAILLE */
+
+.txt-xs{
+    font-size:  1rem
+}
+.txt-m{
+    font-size: 2rem
+}
+.txt-l{
+    font-size: 3rem
+}
+.txt-xl{
+    font-size: 4rem
 }
