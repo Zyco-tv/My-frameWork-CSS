@@ -127,3 +127,30 @@
 .txt-xl{
     font-size: 4rem
 }
+
+/* BACKGROUND COLOR */
+
+.bg-vert{
+    color: green
+}
+.bg-rouge{
+    color: red
+}
+.bg-bleu{
+    color: blue
+}
+.bg-jaune{
+    color: yellow
+}
+.bg-orange{
+    color: orange
+}
+.bg-violet{
+    color: violet
+}
+.bg-noire{
+    color: black
+}
+.bg-blanc{
+    color: white
+}
