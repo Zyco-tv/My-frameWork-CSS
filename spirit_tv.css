@@ -154,3 +154,49 @@
 .bg-blanc{
     color: white
 }
+
+/* BORDER */
+
+.border{
+    border: solid;
+}
+.border-xs{
+    border: 1rem solid;
+}
+.border-m{
+    border: 2rem solid;
+}
+.border-l{
+    border: 3rem solid;
+}
+.border-xl{
+    border: 4rem solid;
+}
+
+.border-dash-red{
+    border: dashed red;
+}
+.border-dash-vert{
+    border: dashed green
+}
+.border-dash-rouge{
+    border: dashed red
+}
+.border-dash-bleu{
+    border: dashed blue
+}
+.border-dash-jaune{
+    border: dashed yellow
+}
+.border-dash-orange{
+    border: dashed orange
+}
+.border-dash-violet{
+    border: dashed violet
+}
+.border-dash-noire{
+    border: dashed black
+}
+.border-dash-blanc{
+    border: dashed white
+}
