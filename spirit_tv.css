@@ -97,3 +97,18 @@
 .p-blanc{
     color: white
 }
+
+/* DISPLAY */
+
+.dis-bloc{
+    display: block;
+}
+.dis-cont{
+    display: contents;
+}
+.dis-line{
+    display: inline;
+}
+.dis-none{
+    display: none;
+}
